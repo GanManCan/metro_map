@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "metro_map_custom")(type "KiCad")(uri "${KIPRJMOD}/metro_map_custom.kicad_sym")(options "")(descr ""))
+)
