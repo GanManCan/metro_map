@@ -44,3 +44,7 @@ git-credential-manager/
 *.out
 *.app
 
+# Document files
+*.gdoc
+*.doc
+*.docx
